@@ -4,6 +4,10 @@ If you're looking for a Docker image with built-in test tools, your dreams came 
 
 ### What's included?
 
+Package management:
+
+- [glide](https://github.com/Masterminds/glide)
+
 Styling:
 
 - [golint](https://github.com/golang/lint)
